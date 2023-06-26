@@ -5,6 +5,6 @@ Instructions:
 
 npm install -g expo-cli
 
-npm install
+yarn / npm install
 
 expo start
